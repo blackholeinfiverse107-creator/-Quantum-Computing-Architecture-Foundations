@@ -1,0 +1,17 @@
+git version 2.52.0.windows.1
+Initialized empty Git repository in C:/Users/Asus/Desktop/no_go/.git/
+warning: in the working copy of 'setup.log', LF will be replaced by CRLF the next time Git touches it
+[master (root-commit) 70ad34c] Initial commit
+ 12 files changed, 290 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 1770716737264-Kanishk Quantum hands on .pdf
+ create mode 100644 diag.py
+ create mode 100644 no_go_registry.md
+ create mode 100644 run_tests.py
+ create mode 100644 setup.log
+ create mode 100644 setup_git.bat
+ create mode 100644 src/core/exceptions.py
+ create mode 100644 src/core/lineage.py
+ create mode 100644 src/core/quantum_object.py
+ create mode 100644 tests/test_adversarial.py
+ create mode 100644 verify.bat
